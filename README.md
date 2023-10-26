@@ -1,7 +1,7 @@
 - 👋 Hi, I’m KhumanshuBudholiya
 - 👀 I’m interested in networking and cloud
 - 🌱 I’m currently learning about cyber security 
-- 💞️ I’m looking to collaborate on internships and open contributions
+- 💞️ I’m looking for internships and trying open contributions
 - Linkedin Profile - https://www.linkedin.com/in/khumanshu-budholiya
 
 <!---
